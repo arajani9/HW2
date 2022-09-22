@@ -1,0 +1,118 @@
+Body.webpage {
+  background-image: url("background_healthy.jpg");
+   }
+  .heading{
+	  text-align: center;
+	  color: blue;
+	  font-family: sans-serif;
+    background-color: yellow;
+  }
+  .paragraph{
+	  font-size: large;
+	  font-weight: bold;
+    color: yellow;
+  }
+ul.topheading {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: Blue;
+}
+
+li.insidetopheading {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+ a:hover{
+	background-color: black;
+	color: white;
+}
+.protien  {
+	 display: block;
+	 margin-left: auto;
+	 margin-right: auto;
+	 width: 300px;
+	 height: 300px;
+}
+
+.forotherpage{
+	color: red;
+	font-family: cursive;
+  background-color: yellow;
+}
+
+body.recipepage{
+background-color: #FFCC00;
+}
+.header, caption{
+	text-align:center;
+  color: #A4A400;
+	background: #F0F0F0;
+  	font-weight: bolder;
+	font-family: "futura";
+}
+.bodypart{
+	font-family: sans-serif;
+	color: #000000;
+}
+
+ul.ingredients{
+	list-style-type: disc;
+}
+ul.Directions{
+	list-style-type: number;
+}
+
+.links {
+	background-color: #A4A400;
+	border-collapse:collapse;
+}
+.links td{
+	background-color:#003366;
+}
+.mycharttable {
+	background-color: #CC9933;
+	border-collapse: collapse;
+	margin-top: 20px;
+  border: 2px solid #FFFFFF;
+
+}
+.mycharttable th{
+  text-align: center;
+	background-color: #003366;
+	color: #FFFFFF;
+}
+.mycharttable td, .mycharttable th{
+  color: #FFFFFF
+	cellpadding: 5px;
+  border: 2px solid #FFFFFF;
+}
+
+.apple  {
+	 width: 500px;
+	 height: 400px;
+}
+
+.appleheader, caption{
+  color: #A4A400;
+	background: #F0F0F0;
+  text-decoration: underline;
+  	font-weight: bolder;
+	font-family: "futura";
+}
+
+.apple1header, caption{
+  color: green;
+	background: #F0F0F0;
+  text-decoration: underline;
+  	font-weight: bolder;
+	font-family: "futura";
+}
